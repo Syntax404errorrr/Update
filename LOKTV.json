@@ -1,7 +1,7 @@
 {
-  "version": 2,
+  "version": "1.1",
   "title": "Update Available",
   "subtitle": "We have improved performance and fixed bugs. Update now to enjoy the best experience.",
-  "closeButton": false,
-  "link": "https://t.me/+uTyY_youZmRmOTll"
+  "update_url": "https://t.me/+uTyY_youZmRmOTll"
+  "show_close_button": false
 }
