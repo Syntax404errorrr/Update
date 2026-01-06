@@ -1,10 +1,9 @@
 {
-  "versionapp": "2",
+  "showDialog": true,
   "title": "Update Available",
-  "subtitle": "We have improved performance and fixed bugs. Update now to enjoy the best experience.",
-  "btn_close_text": "Cancel",
-  "btn_update_text": "Update",
-  "update_link": "https://t.me/+uTyY_youZmRmOTll",
-  "functionClose": false,
-  "functionExit": false
+  "message": "An Update is available on your device",
+  "showCloseButton": false,
+  "UpdateButtonUrl": "https://t.me/+uTyY_youZmRmOTll",
+  "showUpdateButton": true,
+  "UpdateButtonText": "Update Now"
 }
