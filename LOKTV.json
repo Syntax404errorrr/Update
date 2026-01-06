@@ -1,7 +1,10 @@
 {
-  "version": "2.0.0",
+  "versionapp": "2.0.0",
   "title": "Update Available",
-  "subtitle": "◉ New features \n◉ Stable experience ‍\n◉ Fix some issues",
-  "update_url": "https://t.me/+uTyY_youZmRmOTll",
-  "show_close_button": false
+  "subtitle": "We have improved performance and fixed bugs. Update now to enjoy the best experience.",
+  "btn_close_text": "Cancel",
+  "btn_update_text": "Update",
+  "update_link": "https://t.me/+uTyY_youZmRmOTll",
+  "functionClose": false,
+  "functionExit": false
 }
