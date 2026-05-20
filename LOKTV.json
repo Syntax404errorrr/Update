@@ -1,5 +1,5 @@
 {
-  "showDialog": true,
+  "showDialog": false,
   "title": "Update Available‼️",
   "message": "A new update is available for your device. Please update to enjoy the latest features and improvements.",
   "showCloseButton": false,
