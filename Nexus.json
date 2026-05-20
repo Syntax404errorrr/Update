@@ -1,10 +1,9 @@
 {
-  "versionapp": "1.5",
-  "title": "Update Available",
-  "subtitle": "We have improved performance and fixed bugs. Update now to enjoy the best experience.",
-  "btn_close_text": "Cancel",
-  "btn_update_text": "Update",
-  "update_link": "https://t.me/nexusbloodstrike",
-  "functionClose": false,
-  "functionExit": false
+  "showDialog": true,
+  "title": "Update Available‼️",
+  "message": "A new update is available for your device. Please update to enjoy the latest features and improvements.",
+  "showCloseButton": false,
+  "UpdateButtonUrl": "https://t.me/nexusbloodstrike",
+  "showUpdateButton": true,
+  "UpdateButtonText": "Update Now"
 }
