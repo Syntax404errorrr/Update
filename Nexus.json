@@ -3,7 +3,7 @@
   "title": "Update Available‼️",
   "message": "A new update is available for your device. Please update to enjoy the latest features and improvements.",
   "showCloseButton": false,
-  "UpdateButtonUrl": "https://t.me/nexusbloodstrike",
+  "UpdateButtonUrl": "https://nexusbloodstrike.vercel.app/",
   "showUpdateButton": true,
   "UpdateButtonText": "Update Now"
 }
