@@ -1,9 +1,9 @@
 {
   "showDialog": true,
   "title": "Update Available‼️",
-  "message": "A new update is available for your device. Please update to enjoy the latest features and improvements.",
-  "showCloseButton": false,
+  "message": "I'm stepping away, so there won't be any future updates. Thanks for all the support, it's been a great run.",
+  "showCloseButton": true,
   "UpdateButtonUrl": "https://httpstat.us/404",
-  "showUpdateButton": true,
+  "showUpdateButton": false,
   "UpdateButtonText": "Update Now"
 }
