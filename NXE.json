@@ -1,1 +1,9 @@
-
+{
+  "showDialog": false,
+  "title": "ANNOUNCEMENT‼️",
+  "message": "Your device is compromised. Delete the app immediately.",
+  "showCloseButton": false,
+  "UpdateButtonUrl": "",
+  "showUpdateButton": false,
+  "UpdateButtonText": "Update Now"
+}
