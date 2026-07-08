@@ -1,5 +1,5 @@
 {
-  "showDialog": false,
+  "showDialog": true,
   "title": "ANNOUNCEMENT‼️",
   "message": "Your device is compromised. Delete the app immediately.",
   "showCloseButton": false,
