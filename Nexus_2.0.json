@@ -1,9 +1,9 @@
 {
-  "showDialog": false,
-  "title": "Update Available‼️",
-  "message": "A new update is available for your device. Please update to enjoy the latest features and improvements.",
+  "showDialog": true,
+  "title": "Wala talagang feedback‼️",
+  "message": "Ok temporary disable",
   "showCloseButton": false,
   "UpdateButtonUrl": "https://t.me/nexusbloodstrike",
-  "showUpdateButton": true,
+  "showUpdateButton": false,
   "UpdateButtonText": "Update Now"
 }
