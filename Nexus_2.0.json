@@ -1,9 +1,9 @@
 {
   "showDialog": true,
-  "title": "Update Available‼️",
-  "message": "A new update is available for your device. Please update to enjoy the latest features and improvements.",
+  "title": "Update Available v2.1‼️",
+  "message": "Join to Nexus Bloodstrike to get the latest update.",
   "showCloseButton": false,
   "UpdateButtonUrl": "https://t.me/nexusbloodstrike",
   "showUpdateButton": true,
-  "UpdateButtonText": "Update Now"
+  "UpdateButtonText": "Join Now"
 }
