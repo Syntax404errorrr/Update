@@ -1,9 +1,9 @@
 {
   "showDialog": true,
-  "title": "Temporarily Shutdown‼️",
-  "message": "We will be right back. Join to my telegram channel to get latest update when I'm back.",
+  "title": "Shutdown Notice‼️",
+  "message": "This project has come to an end. Switch to other injector. Bye NXS users🫡",
   "showCloseButton": false,
   "UpdateButtonUrl": "https://t.me/nexusbloodstrike",
-  "showUpdateButton": true,
+  "showUpdateButton": false,
   "UpdateButtonText": "Join Telegram"
 }
