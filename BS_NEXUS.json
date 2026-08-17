@@ -1,9 +1,9 @@
 {
-  "showDialog": false,
-  "title": "Update Available‼️",
-  "message": "A new update is available for your device. Please update to enjoy the latest features and improvements.",
+  "showDialog": true,
+  "title": "Report this Account‼️",
+  "message": "Someone is pretending that he is the owner of my mod and he's selling it. So before it's too late report his account. Click the Report Now to report!\n TikTok Account: NEXUS MOOD",
   "showCloseButton": false,
-  "UpdateButtonUrl": "https://t.me/nexusbloodstrike",
+  "UpdateButtonUrl": "https://www.tiktok.com/@its_uurken?_r=1&_t=ZS-98x2kvi9NBg",
   "showUpdateButton": true,
-  "UpdateButtonText": "Update Now"
+  "UpdateButtonText": "Report Now"
 }
