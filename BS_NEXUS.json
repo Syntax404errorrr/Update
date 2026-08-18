@@ -1,9 +1,9 @@
 {
-  "showDialog": false,
-  "title": "Update Available‼️",
-  "message": "Someone is pretending that he is the owner of my mod and he's selling it. So before it's too late report his account. Click the Report Now to report!\n\nTikTok Account: NEXUS MOOD\n\n\nDeveloper: NXS Developer",
+  "showDialog": true,
+  "title": "Temporary Shutdown‼️",
+  "message": "Due to some users can't even give credits on their livestream I decided to shut this down temporarily.You can you use my Injector again at exact 12:00 this morning\n\nDeveloper: NXS Developer",
   "showCloseButton": false,
   "UpdateButtonUrl": "https://www.tiktok.com/@its_uurken?_r=1&_t=ZS-98x2kvi9NBg",
-  "showUpdateButton": true,
+  "showUpdateButton": false,
   "UpdateButtonText": "Update Now"
 }
