@@ -2,8 +2,8 @@
   "showDialog": true,
   "title": "Donation Update‼️",
   "message": "If you enjoy my work and want to help keep the project alive, consider sending a small donation. Every contribution helps with development, hosting, tools, and future updates.\n\nYou can send your donation via GCash or Paypal.\n\nGCash: 09942264158\nPaypal: du33688@gmail.com\n\nWarm Regards: NXS Developer",
-  "showCloseButton": true,
-  "UpdateButtonUrl": "",
+  "showCloseButton": false,
+  "UpdateButtonUrl": "https://t.me/syntax404errorrr",
   "showUpdateButton": false,
-  "UpdateButtonText": "Update Now"
+  "UpdateButtonText": "Message Now"
 }
