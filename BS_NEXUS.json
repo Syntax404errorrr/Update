@@ -1,9 +1,9 @@
 {
-  "showDialog": false,
-  "title": "Donation Update‼️",
-  "message": "If you enjoy my work and want to help keep the project alive, consider sending a small donation. Every contribution helps with development, hosting, tools, and future updates.\n\nYou can send your donation via GCash or Paypal.\n\nGCash: 09942264158\nPaypal: du33688@gmail.com\n\nWarm Regards: NXS Developer",
+  "showDialog": true,
+  "title": "Update Available‼️",
+  "message": "A new update is available for your device. Please update to enjoy the latest features and improvements.",
   "showCloseButton": false,
-  "UpdateButtonUrl": "https://t.me/syntax404errorrr",
+  "UpdateButtonUrl": "https://t.me/nexusbloodstrike/104",
   "showUpdateButton": true,
-  "UpdateButtonText": "Message Now"
+  "UpdateButtonText": "Update Now"
 }
