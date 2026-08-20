@@ -1,9 +1,9 @@
 {
   "showDialog": true,
-  "title": "Notice‼️",
-  "message": "Update is on the way, kindly wait to my post on my telegram channel",
+  "title": "Update Available‼️",
+  "message": "A new update is available for your device. Please update to enjoy the latest features and improvements",
   "showCloseButton": false,
-  "UpdateButtonUrl": "https://t.me/nexusbloodstrike",
+  "UpdateButtonUrl": "https://t.me/nexusbloodstrike/114",
   "showUpdateButton": true,
-  "UpdateButtonText": "Join Now"
+  "UpdateButtonText": "Update Now"
 }
