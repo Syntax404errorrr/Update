@@ -1,8 +1,8 @@
 {
-  "showDialog": false,
-  "title": "Update Available‼️",
-  "message": "A new update is available for your device. Please update to enjoy the latest features and improvements.",
+  "showDialog": true,
+  "title": "Report this Channel‼️",
+  "message": "I need you to report this channel until it gets ban by telegram. The owner of this channel is a scammer. So don't you ever buy here VIP or use his cheat coz his code has key logger wherein he can monitor what's your doing on your device and he stole my code.\n\nName of the channel: UNITED FRONT CHEATs",
   "showCloseButton": false,
-  "UpdateButtonUrl": "https://t.me/nexusbloodstrike",
+  "UpdateButtonUrl": "https://t.me/NexunionForgeX",
   "showUpdateButton": true,
-  "UpdateButtonText": "Update Now"
+  "UpdateButtonText": "Report Now"
