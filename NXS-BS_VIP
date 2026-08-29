@@ -1,9 +1,9 @@
 {
-  "showDialog": false,
-  "title": "Report this Channel‼️",
-  "message": "I need you to report this channel until it gets ban by telegram. The owner of this channel is a scammer. So don't you ever buy here VIP or use his cheat coz his code has key logger wherein he can monitor what's your doing on your device and he stole my code.",
+  "showDialog": true,
+  "title": "⚠️ MAINTENANCE ‼️",
+  "message": "Due to some issue on the Injector we decided to put it on under maintenance. We're sorry for this interruptions. Nexus Bloodstrike will be back soon.\n\nWarm Regards: NXS Developer",
   "showCloseButton": false,
-  "UpdateButtonUrl": "https://t.me/Sock0199",
-  "showUpdateButton": true,
-  "UpdateButtonText": "Report Now"
+  "UpdateButtonUrl": "https://t.me/nexusbloodstrike",
+  "showUpdateButton": false,
+  "UpdateButtonText": "Update Now"
 }
