@@ -1,5 +1,5 @@
 {
-  "showDialog": true,
+  "showDialog": false,
   "title": "⚠️ MAINTENANCE ‼️",
   "message": "Due to some issue on the Injector we decided to put it on under maintenance. We're sorry for this interruptions. Nexus Bloodstrike will be back soon.\n\nWarm Regards: NXS Developer",
   "showCloseButton": false,
