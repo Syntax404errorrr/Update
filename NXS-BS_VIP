@@ -1,9 +1,9 @@
 {
-  "showDialog": false,
-  "title": "⚠️ MAINTENANCE ‼️",
-  "message": "Due to some issue on the Injector we decided to put it on under maintenance. We're sorry for this interruptions. Nexus Bloodstrike will be back soon.\n\nWarm Regards: NXS Developer",
+  "showDialog": true,
+  "title": "Update Available‼️",
+  "message": "A new update is available for your device. Please update to enjoy the latest features and improvements.",
   "showCloseButton": false,
-  "UpdateButtonUrl": "https://t.me/nexusbloodstrike",
-  "showUpdateButton": false,
+  "UpdateButtonUrl": "https://t.me/nexusbloodstrike/182",
+  "showUpdateButton": true,
   "UpdateButtonText": "Update Now"
 }
