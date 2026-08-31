@@ -1,7 +1,7 @@
 {
   "showDialog": true,
   "title": "Update Available‼️",
-  "message": "A new update is available for your device. Please update to enjoy the latest features and improvements.",
+  "message": "A new update is available for your device. Please update to enjoy the latest features and improvements.\Uninstall first the old version and install the latest to update.",
   "showCloseButton": false,
   "UpdateButtonUrl": "https://t.me/nexusbloodstrike/182",
   "showUpdateButton": true,
