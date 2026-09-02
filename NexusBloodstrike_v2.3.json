@@ -1,7 +1,7 @@
 {
   "showDialog": true,
   "title": "Update Available‼️",
-  "message": "A new update is available for your device. Please update to enjoy the latest features and improvements.",
+  "message": "A new update is available for your device. Please update to enjoy the latest features and improvements.\n\nCHANGELOGS\n\n•Update to the latest patch\n•New skin added\n•Add more skins on melee",
   "showCloseButton": false,
   "UpdateButtonUrl": "https://t.me/nexusbloodstrike/207",
   "showUpdateButton": true,
