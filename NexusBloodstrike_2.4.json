@@ -1,9 +1,9 @@
 {
-  "showDialog": false,
+  "showDialog": true,
   "title": "Update Available‼️",
-  "message": "A new update is available for your device. Please update to enjoy the latest features and improvements.\n\nChangelogs:\n• Switch to Loader / Auto Update\n• Non-root & rooted support\n• No Need to Manual Update\n• Add VPN Detection",
-  "showCloseButton": true,
-  "UpdateButtonUrl": "https://t.me/nexusbloodstrike/214",
+  "message": "A new update is available for your device. Please update to enjoy the latest features and improvements.\n\nChangelogs:\n• Back to virtual with built-in Mod\n• Updated to v2.5\n",
+  "showCloseButton": false,
+  "UpdateButtonUrl": "https://t.me/nexusbloodstrike/230",
   "showUpdateButton": true,
   "UpdateButtonText": "Update Now"
 }
