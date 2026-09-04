@@ -1,0 +1,9 @@
+{
+  "showDialog": false,
+  "title": "Update Available‼️",
+  "message": "A new update is available for your device. Please update to enjoy the latest features and improvements.\n\nChangelogs:\n• Switch to Loader / Auto Update\n• Non-root & rooted support\n• No Need to Manual Update\n• Add VPN Detection",
+  "showCloseButton": true,
+  "UpdateButtonUrl": "https://t.me/nexusbloodstrike",
+  "showUpdateButton": true,
+  "UpdateButtonText": "Update Now"
+}
