@@ -1,8 +1,11 @@
 {
-  "showDialog": true,
-  "title": "Update Available‼️",
-  "message": "A new update is available for your device. Please update to enjoy the latest features and improvements.\n\nChangelogs:\n• Added more skins\n• Non-root & rooted support\n• Fixed crash issue\n• Fixed injection",
-  "showCloseButton": false,
-  "UpdateButtonUrl": "https://t.me/nexusbloodstrike/262",
-  "showUpdateButton": true,
-  "UpdateButtonText": "Update Now"
+  "version_1": "2.5",
+  "version_2": "2.6",
+  "app_name": "Nexus Bloodstrike",
+  "update_subtitle": "Latest: 2.6 - Update",
+  "feature_1": "1. Improve bypass",
+  "feature_2": "2. Add more skins",
+  "feature_3": "3. Fixed crash",
+  "button_text": "UPDATE NOW 😊",
+  "update_url": "https://t.me/nexusbloodstrike"
+}
