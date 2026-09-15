@@ -1,11 +1,11 @@
 {
   "version_1": "2.5",
-  "version_2": "2.6",
+  "version_2": "2.5",
   "app_name": "Nexus Bloodstrike",
-  "update_subtitle": "Latest: 2.6 - Update",
+  "update_subtitle": "Latest: 2.5 - Update",
   "feature_1": "1. Improve bypass",
   "feature_2": "2. Add more skins",
   "feature_3": "3. Fixed crash",
-  "button_text": "UPDATE NOW 😊",
+  "button_text": "UPDATE NOW",
   "update_url": "https://t.me/nexusbloodstrike"
 }
